@@ -4,7 +4,7 @@ require 'pry'
 
 
 #Test your code here
+#cleared before submitted
 
-
-binding.pry
+#binding.pry
 puts "done"
