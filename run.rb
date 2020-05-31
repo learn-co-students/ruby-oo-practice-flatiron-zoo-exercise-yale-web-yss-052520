@@ -4,6 +4,12 @@ require 'pry'
 
 
 #Test your code here
+gladys = Zoo.new("gladys_porter_zoo", "brownsville")
+
+monkey = Animal.new("monkey", "50lbs", "nico")
+monkey.zoo = gladys
+
+
 
 
 binding.pry
