@@ -19,4 +19,5 @@ class Animal
         self.all.select{|a| a.species == species}
     end
 
+    
 end
